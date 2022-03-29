@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CRUDUsingMVCwithAdoDotNet/CRUDUsingMVCwithAdoDotNet.git/Web.config
+/CRUDUsingMVCwithAdoDotNet/CRUDUsingMVCwithAdoDotNet.git/bin
+/CRUDUsingMVCwithAdoDotNet/CRUDUsingMVCwithAdoDotNet.git/obj/Debug
+/.vs
+/CRUDUsingMVCwithAdoDotNet/.vs/CRUDUsingMVCwithAdoDotNet
